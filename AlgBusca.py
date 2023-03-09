@@ -50,10 +50,3 @@ def busca_binaria(l,x):
         else:
             d=m-1
     return -1
-
-
-l = [11, 22, 33, 44, 55, 66, 77, 88, 99]
-x = 67
-busca_binaria(l,x)
-
-#A VARIAVEL CONTA ESTA ERRADA PRO BUBBLE E INSERT
